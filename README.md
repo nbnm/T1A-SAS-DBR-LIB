@@ -1,4 +1,4 @@
-# sasdbrlib
+# T1A-SAS-DBR-LIB
 
 Few examples on how to define lib statements to connect from SAS to DBR, so Databricks data can be consumed from SAS Code. 
 The code contains examples for 
